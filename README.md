@@ -12,11 +12,11 @@ Comparação de desempenho de 6 algoritmos de ordenação implementados manualme
 
 ## Como Executar
 ```bash
-# Compilar (gera .class na pasta bin)
-javac -d bin *.java
+# Compilar
+javac *.java
 
 # Executar
-java -cp bin Main
+java Main
 ```
 
 ## Resultados dos Testes
